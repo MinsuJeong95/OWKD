@@ -41,7 +41,7 @@ OWKD is a method that performs channel feature ensemble knowledge distillation (
 
 
 
-3. WSE-Net_CLI to interact with our code.
+3. OWKD_CLI to interact with our code.
 
    <https://drive.google.com/file/d/1zkl0Smfq98c_xZgeJG-kLfOPQFNqwWxf/view?usp=drive_link>
 
@@ -74,7 +74,7 @@ To launching OWKD, proceed as follows:
 
    <https://drive.google.com/file/d/1BQ2spGZnMLj6RqvY2t5-dhG_o41bE810/view?usp=drive_link>
 
-If you need pre-trained models of WSE-Net, you can download it via the link above.
+If you need pre-trained models of lightest WSE-Net, you can download it via the link above.
 
 
 -----------------------------------------------------------------------------------------------------------------------------
