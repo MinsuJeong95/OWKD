@@ -25,7 +25,7 @@ OWKD is a method that performs channel feature ensemble knowledge distillation (
 ## Download Requirements.txt and OWKD_CLI (Command-Line Interface)
 1. Requirements.txt
 
-   <https://drive.google.com/file/d/1GUCcXzesZ6rXPKc2SWw8eSHrZmIFCAbD/view?usp=drive_link>
+   <https://drive.google.com/file/d/1FAEOvu8wogoFsir3sxZgi52RSBdyAnuL/view?usp=drive_link>
    
    We used virtual environment (Anaconda 4.9.2).
    
@@ -43,7 +43,7 @@ OWKD is a method that performs channel feature ensemble knowledge distillation (
 
 3. OWKD_CLI to interact with our code.
 
-   <https://drive.google.com/file/d/1zkl0Smfq98c_xZgeJG-kLfOPQFNqwWxf/view?usp=drive_link>
+   <https://drive.google.com/file/d/1KG3Vv0TWcbCYbvYfYm1qezdho8XBpmII/view?usp=drive_link>
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -72,9 +72,10 @@ To launching OWKD, proceed as follows:
 
 ## Download pre-trained models
 
-   <https://drive.google.com/file/d/1BQ2spGZnMLj6RqvY2t5-dhG_o41bE810/view?usp=drive_link>
+   <https://drive.google.com/file/d/1hHsF2TMaK1IIhpV36gCtTCRE-zY2Fhy5/view?usp=drive_link>
 
 If you need pre-trained models of lightest WSE-Net, you can download it via the link above.
+And unpack in the kdLoss folder.
 
 
 -----------------------------------------------------------------------------------------------------------------------------
