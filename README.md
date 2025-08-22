@@ -2,7 +2,7 @@
 
 This study proposes a new optimal weight-based knowledge distillation (OWKD) for person re-id using IR images. 
 
-OWKD is a method that performs channel feature ensemble knowledge distillation (CFE-KD), gram matrix to frequency knowledge distillation (GMF-KD), and optimal weight-based feature knowledge distillation (OWF-KD), thereby optimizing KD in person re-ID ensemble models.
+OWKD is a method that performs channel feature ensemble knowledge distillation (CFE-KD), gram matrix to frequency knowledge distillation (GMF-KD), and optimal weight-based feature knowledge distillation (OWF-KD), thereby optimizing KD in person re-id ensemble models.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
