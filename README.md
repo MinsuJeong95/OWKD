@@ -68,15 +68,17 @@ To launching OWKD, proceed as follows:
 
 
 -----------------------------------------------------------------------------------------------------------------------------
+## Download teacher models (WSE-Net)
 
+   <https://drive.google.com/file/d/1FNKKjXDzAx2GHM4_1sDmQkjTKYJh6z6W/view?usp=drive_link>
+
+If you need teacher model (WSE-Net), you can download it via the link above. Unpack in the kdLoss folder.
 
 ## Download pre-trained models
 
-   <https://drive.google.com/file/d/1hHsF2TMaK1IIhpV36gCtTCRE-zY2Fhy5/view?usp=drive_link>
+   <https://drive.google.com/file/d/1kjf7N4T18MvwXvxEwRR3-GewINDvE_ZX/view?usp=drive_link>
 
 If you need pre-trained models of lightest WSE-Net, you can download it via the link above.
-And unpack in the kdLoss folder.
-
 
 -----------------------------------------------------------------------------------------------------------------------------
 
