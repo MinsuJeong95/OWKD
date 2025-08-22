@@ -33,7 +33,7 @@ OWKD is a method that performs channel feature ensemble knowledge distillation (
    
     ```
     ﻿conda config --append channels conda-forge
-    conda create --name OWKD --file requirements.txt
+    conda create --name OWKD --file Requirements.txt
     conda activate OWKD
     conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit=11.3 -c pytorch
     ```
