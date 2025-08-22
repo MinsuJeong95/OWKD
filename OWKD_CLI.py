@@ -1,4 +1,4 @@
-import runWSENet
+import runOWKD
 import argparse
 
 parser = argparse.ArgumentParser()
@@ -31,7 +31,7 @@ args = parser.parse_args()
 
 def main():
     args.Fold = args.Fold.replace(" ", "").split(',')
-    runWSENet.run(args)
+    runOWKD.run(args)
 
 
 if __name__ == "__main__":
