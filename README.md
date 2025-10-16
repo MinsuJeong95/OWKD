@@ -83,7 +83,7 @@ If you need pre-trained models of lightest WSE-Net, you can download it via the 
 
 - python 3.8.18 
 - pytorch 1.11.0
-- Windows 10
+- Windows 10 
 
 
 -----------------------------------------------------------------------------------------------------------------------------
