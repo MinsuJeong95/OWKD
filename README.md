@@ -72,8 +72,8 @@ If you need teacher model (WSE-Net), you can download it via the link above. Unp
 
 ## Download pre-trained models
 
-   <https://drive.google.com/file/d/1FNKKjXDzAx2GHM4_1sDmQkjTKYJh6z6W/view?usp=drive_link>
-
+   <https://drive.google.com/file/d/1kIWzVW6F-sjE9KkdmfCmv5jktdSAZKd5/view?usp=drive_link>
+   
 If you need pre-trained models of lightest WSE-Net, you can download it via the link above.
 
 -----------------------------------------------------------------------------------------------------------------------------
