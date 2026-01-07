@@ -1,5 +1,3 @@
-## OWKD: Optimal Weight-based Knowledge Distillation Using Channel Feature Ensemble and Frequency Feature for Infrared Light Image-based Person Re-identification
-
 -----------------------------------------------------------------------------------------------------------------------------
 
 
